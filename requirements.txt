@@ -2,10 +2,11 @@ pandas
 numpy
 matplotlib
 seaborn
-textblob
-nltk
-yfinance
-pynance
 scikit-learn
 ipykernel
 mlflow
+pytest
+fastapi
+uvicorn
+pydantic
+flake8
