@@ -8,3 +8,4 @@ yfinance
 pynance
 scikit-learn
 ipykernel
+mlflow
